@@ -795,7 +795,7 @@ Change:
 - Request Context Epoch replacement after an agent switch, dynamically re-observe the effective agent during retries, and fence first-epoch creation against the authoritative effective agent.
 - Fence existing-epoch replacement against the authoritative effective agent and block cross-agent provider turns while replacement context is unavailable.
 - Group the System Context algebra, registry, and built-ins under `system-context/`; keep source producers and Context Epoch persistence with their owning Skill, instruction, and Session modules; rename projected conversation selection to Session History.
-- Add the canonical V1-to-V2 runtime-context parity checklist to `specs/v2/session.md`.
+- Add the canonical V1-to-V2 runtime-context parity checklist to `docs/specs/v2/session.md`.
 
 Compatibility:
 
