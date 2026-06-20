@@ -18,6 +18,10 @@
   <img alt="Platform" src="https://img.shields.io/badge/platform-linux%20%7C%20macOS%20%7C%20windows-blue?style=flat-square" />
 </p>
 
+<br>
+
+![PrisovCode Terminal UI](packages/web/src/assets/lander/screenshot.png)
+
 ---
 
 ## ✨ What is PrisovCode?
