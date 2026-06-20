@@ -87,7 +87,7 @@ sudo mv prisovcode /usr/local/bin/
 
 Available variants: `linux-x64`, `linux-x64-baseline` (no AVX2), `linux-arm64`, `linux-x64-musl`, `linux-arm64-musl`, `darwin-arm64`, `darwin-x64`, `win32-x64`, `win32-arm64`.
 
-### Desktop App (BETA)
+### Desktop App (NO READY)
 
 | Platform | Format |
 |----------|--------|
