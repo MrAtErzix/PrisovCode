@@ -67,6 +67,36 @@ iwr -Uri "https://github.com/MrAtErzix/PrisovCode/releases/latest/download/insta
 | **Arch Linux** | `yay -S prisovcode-bin` |
 | **Nix (any OS)** | `nix run github:MrAtErzix/PrisovCode` |
 
+### Direct Download (any Linux distro)
+
+For Debian, Ubuntu, Fedora, or any other distribution — grab the prebuilt binary directly:
+
+```bash
+curl -LO https://github.com/MrAtErzix/PrisovCode/releases/latest/download/prisovcode-linux-x64.tar.gz
+tar -xzf prisovcode-linux-x64.tar.gz
+sudo mv prisovcode /usr/local/bin/
+```
+
+Or with wget:
+
+```bash
+wget https://github.com/MrAtErzix/PrisovCode/releases/latest/download/prisovcode-linux-x64.tar.gz
+tar -xzf prisovcode-linux-x64.tar.gz
+sudo mv prisovcode /usr/local/bin/
+```
+
+Available variants: `linux-x64`, `linux-x64-baseline` (no AVX2), `linux-arm64`, `linux-x64-musl`, `linux-arm64-musl`, `darwin-arm64`, `darwin-x64`, `win32-x64`, `win32-arm64`.
+
+### Desktop App (BETA)
+
+| Platform | Format |
+|----------|--------|
+| **Debian / Ubuntu** | `.deb` — [Download latest](https://github.com/MrAtErzix/PrisovCode/releases/latest) |
+| **Fedora / RHEL** | `.rpm` — [Download latest](https://github.com/MrAtErzix/PrisovCode/releases/latest) |
+| **Any Linux** | `.AppImage` — [Download latest](https://github.com/MrAtErzix/PrisovCode/releases/latest) |
+| **macOS** | `.dmg` — [Download latest](https://github.com/MrAtErzix/PrisovCode/releases/latest) |
+| **Windows** | `.exe` — [Download latest](https://github.com/MrAtErzix/PrisovCode/releases/latest) |
+
 ---
 
 ## 🔧 Build from Source
