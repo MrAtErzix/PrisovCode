@@ -118,7 +118,7 @@ OpenCode'u nasıl yapılandıracağınız hakkında daha fazla bilgi için [**do
 
 ### Katkıda Bulunma
 
-OpenCode'a katkıda bulunmak istiyorsanız, lütfen bir pull request göndermeden önce [katkıda bulunma dokümanlarımızı](./CONTRIBUTING.md) okuyun.
+OpenCode'a katkıda bulunmak istiyorsanız, lütfen bir pull request göndermeden önce [katkıda bulunma dokümanlarımızı](../docs/CONTRIBUTING.md) okuyun.
 
 ### OpenCode Üzerine Geliştirme
 

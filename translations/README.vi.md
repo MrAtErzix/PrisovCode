@@ -118,7 +118,7 @@ Tìm hiểu thêm về [agents](https://opencode.ai/docs/agents).
 
 ### Đóng góp
 
-Nếu bạn muốn đóng góp cho OpenCode, vui lòng đọc [tài liệu hướng dẫn đóng góp](./CONTRIBUTING.md) trước khi gửi pull request.
+Nếu bạn muốn đóng góp cho OpenCode, vui lòng đọc [tài liệu hướng dẫn đóng góp](../docs/CONTRIBUTING.md) trước khi gửi pull request.
 
 ### Xây dựng trên nền tảng OpenCode
 

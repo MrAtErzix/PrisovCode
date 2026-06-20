@@ -117,7 +117,7 @@ OpenCode 內建了兩種 Agent，您可以使用 `Tab` 鍵快速切換。
 
 ### 參與貢獻
 
-如果您有興趣參與 OpenCode 的開發，請在提交 Pull Request 前先閱讀我們的 [貢獻指南 (Contributing Docs)](./CONTRIBUTING.md)。
+如果您有興趣參與 OpenCode 的開發，請在提交 Pull Request 前先閱讀我們的 [貢獻指南 (Contributing Docs)](../docs/CONTRIBUTING.md)。
 
 ### 基於 OpenCode 進行開發
 

@@ -118,7 +118,7 @@ Za više informacija o konfiguraciji OpenCode-a, [**pogledaj dokumentaciju**](ht
 
 ### Doprinosi
 
-Ako želiš doprinositi OpenCode-u, pročitaj [upute za doprinošenje](./CONTRIBUTING.md) prije slanja pull requesta.
+Ako želiš doprinositi OpenCode-u, pročitaj [upute za doprinošenje](../docs/CONTRIBUTING.md) prije slanja pull requesta.
 
 ### Gradnja na OpenCode-u
 

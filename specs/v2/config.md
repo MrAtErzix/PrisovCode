@@ -60,7 +60,7 @@ Keep ambient instructions separate from skills. Instructions are automatically i
 ```jsonc
 {
   "instructions": [
-    "CONTRIBUTING.md",
+    "docs/CONTRIBUTING.md",
     "docs/guidelines.md",
     ".cursor/rules/*.md",
     "https://example.com/shared-rules.md",

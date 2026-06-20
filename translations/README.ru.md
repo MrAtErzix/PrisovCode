@@ -118,7 +118,7 @@ XDG_BIN_DIR=$HOME/.local/bin curl -fsSL https://opencode.ai/install | bash
 
 ### Вклад
 
-Если вы хотите внести вклад в OpenCode, прочитайте [contributing docs](./CONTRIBUTING.md) перед тем, как отправлять pull request.
+Если вы хотите внести вклад в OpenCode, прочитайте [contributing docs](../docs/CONTRIBUTING.md) перед тем, как отправлять pull request.
 
 ### Разработка на базе OpenCode
 

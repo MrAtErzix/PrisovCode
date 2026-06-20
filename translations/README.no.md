@@ -118,7 +118,7 @@ For mer info om hvordan du konfigurerer OpenCode, [**se dokumentasjonen**](https
 
 ### Bidra
 
-Hvis du vil bidra til OpenCode, les [contributing docs](./CONTRIBUTING.md) før du sender en pull request.
+Hvis du vil bidra til OpenCode, les [contributing docs](../docs/CONTRIBUTING.md) før du sender en pull request.
 
 ### Bygge på OpenCode
 

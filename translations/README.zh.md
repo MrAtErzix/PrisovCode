@@ -117,7 +117,7 @@ OpenCode 内置两种 Agent，可用 `Tab` 键快速切换：
 
 ### 参与贡献
 
-如有兴趣贡献代码，请在提交 PR 前阅读 [贡献指南 (Contributing Docs)](./CONTRIBUTING.md)。
+如有兴趣贡献代码，请在提交 PR 前阅读 [贡献指南 (Contributing Docs)](../docs/CONTRIBUTING.md)。
 
 ### 基于 OpenCode 进行开发
 

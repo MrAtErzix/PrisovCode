@@ -118,7 +118,7 @@ OpenCode の設定については [**ドキュメント**](https://opencode.ai/d
 
 ### コントリビュート
 
-OpenCode に貢献したい場合は、Pull Request を送る前に [contributing docs](./CONTRIBUTING.md) を読んでください。
+OpenCode に貢献したい場合は、Pull Request を送る前に [contributing docs](../docs/CONTRIBUTING.md) を読んでください。
 
 ### OpenCode の上に構築する
 

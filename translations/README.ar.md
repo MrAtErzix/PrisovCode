@@ -118,7 +118,7 @@ XDG_BIN_DIR=$HOME/.local/bin curl -fsSL https://opencode.ai/install | bash
 
 ### المساهمة
 
-اذا كنت مهتما بالمساهمة في OpenCode، يرجى قراءة [contributing docs](./CONTRIBUTING.md) قبل ارسال pull request.
+اذا كنت مهتما بالمساهمة في OpenCode، يرجى قراءة [contributing docs](../docs/CONTRIBUTING.md) قبل ارسال pull request.
 
 ### البناء فوق OpenCode
 

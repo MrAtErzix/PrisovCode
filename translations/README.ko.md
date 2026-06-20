@@ -118,7 +118,7 @@ OpenCode 설정에 대한 자세한 내용은 [**문서**](https://opencode.ai/d
 
 ### 기여하기
 
-OpenCode 에 기여하고 싶다면, Pull Request 를 제출하기 전에 [contributing docs](./CONTRIBUTING.md) 를 읽어주세요.
+OpenCode 에 기여하고 싶다면, Pull Request 를 제출하기 전에 [contributing docs](../docs/CONTRIBUTING.md) 를 읽어주세요.
 
 ### OpenCode 기반으로 만들기
 

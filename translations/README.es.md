@@ -118,7 +118,7 @@ Para más información sobre cómo configurar OpenCode, [**ve a nuestra document
 
 ### Contribuir
 
-Si te interesa contribuir a OpenCode, lee nuestras [docs de contribución](./CONTRIBUTING.md) antes de enviar un pull request.
+Si te interesa contribuir a OpenCode, lee nuestras [docs de contribución](../docs/CONTRIBUTING.md) antes de enviar un pull request.
 
 ### Proyectos basados en OpenCode
 
