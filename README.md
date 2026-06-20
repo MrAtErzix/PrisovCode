@@ -1,10 +1,8 @@
-<p align="center">
-  <picture>
-    <source srcset="packages/web/src/assets/logo-ornate-dark.svg" media="(prefers-color-scheme: dark)">
-    <source srcset="packages/web/src/assets/logo-ornate-light.svg" media="(prefers-color-scheme: light)">
-    <img src="packages/web/src/assets/logo-ornate-light.svg" alt="PrisovCode" width="400">
-  </picture>
-</p>
+<pre align="center">
+█▀▀█ █▀▀█ ▀▀▀▀ █▀▀▀ █▀▀█ █  █ █▀▀▀ █▀▀█ █▀▀▄ █▀▀
+█▀▀▀ █▀▀▄   █  ▀▀▀▄ █  █  ██. █    █  █ █  █ █▀▀
+█    █  █ ▀▀▀▀ ▀▀▀▀ ▀▀▀▀   █. ▀▀▀▀ ▀▀▀▀ ▀▀▀  ▀▀▀
+</pre>
 
 <h3 align="center">The AI Agent That Lives in Your Terminal</h3>
 
@@ -19,10 +17,6 @@
   <a href="https://github.com/MrAtErzix/PrisovCode/actions"><img alt="Build status" src="https://img.shields.io/github/actions/workflow/status/MrAtErzix/PrisovCode/publish.yml?style=flat-square&branch=dev" /></a>
   <img alt="Platform" src="https://img.shields.io/badge/platform-linux%20%7C%20macOS%20%7C%20windows-blue?style=flat-square" />
 </p>
-
-<br>
-
-![PrisovCode Terminal UI](packages/web/src/assets/lander/screenshot.png)
 
 ---
 
